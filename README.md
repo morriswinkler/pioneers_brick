@@ -4,7 +4,7 @@ Pioneers Brick, is a small device built on a breadboard. It communicates with ot
 
 The brick is initialized with a random colour and adds new ones simply by being connected to fellow bricks.
 
-The connecting bridge between two bricks is indicated by a blinking green light. If the contact has shown to be successful, both devices will now include each other's initial colour.
+The connecting bridge between two bricks is indicated by a blinking green light. If the contact has been successful, both devices will now include each other's initial colour.
 
 
 ### Attiny45 
